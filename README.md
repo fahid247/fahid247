@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="" alt="Banner" width="100%" />
+  <img src="Image Dec 31, 2025, 03_39_35 PM.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Fahid Aqundow 👋</h1>
