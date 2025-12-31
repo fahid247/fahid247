@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="[https://i.ibb.co/2nJkM0P/github-banner.png](https://i.ibb.co.com/0jtVnXN7/Image-Dec-31-2025-03-39-35-PM.png)" alt="Banner" width="100%" />
+  <img src="" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Fahid Aqundow 👋</h1>
