@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Fahid Aqundow 👋</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
 
-📍 Dhaka,Bangladesh | 📧 fahid32446@gmail.com | 📞 +880-1644887100
+<h1 align="center">📍 Dhaka,Bangladesh | 📧 fahid32446@gmail.com | 📞 +880-1644887100</h1>
 ---
 
 ## 👨‍💻 About Me
