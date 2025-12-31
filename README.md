@@ -61,11 +61,10 @@ I’m a fast learner, adaptable, and love turning ideas into working products us
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fahid247&show_icons=true&theme=dark&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=fahid247&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fahid247&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahid247&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=fahid247&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahid247&layout=compact&theme=dark)
 
 
 
